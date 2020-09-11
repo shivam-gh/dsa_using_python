@@ -1,6 +1,6 @@
 # Ternary search is similar to the binary search, the only difference is that 
 # in binary search, the sorted array is divided into two parts while in ternary search, 
-# it is divided into  parts and then you determine in which part the element exists.
+# it is divided into three parts and then you determine in which part the element exists.
 
 # <----time complexity---->
 # best    average    worst
